@@ -5,3 +5,8 @@ console.log("Hello from Seeu")
 //3.git commit -m "first commit"
 //4.git remote add origin <url>
 //5.git push -u origin master
+
+//We have pushed the code on main branch
+const dummy = () => {
+    console.log("dummy function")
+}
